@@ -1,0 +1,22 @@
+.container{
+    background: #3cb371;
+    text-align: center;
+    align-items:center;
+    margin: auto;
+    border-radius: 7px;
+    margin-top: 30px;
+    font-family:   'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    padding: 15px;
+    max-width: 65%;
+}
+
+input{
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+span{
+    color : rgb(107, 16, 46)
+}
